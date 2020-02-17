@@ -1,0 +1,12 @@
+README.rst
+setup.py
+JustPot/__init__.py
+JustPot/__main__.py
+JustPot/config_loader.py
+JustPot/funcs.py
+JustPot.egg-info/PKG-INFO
+JustPot.egg-info/SOURCES.txt
+JustPot.egg-info/dependency_links.txt
+JustPot.egg-info/not-zip-safe
+JustPot.egg-info/requires.txt
+JustPot.egg-info/top_level.txt
